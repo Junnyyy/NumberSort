@@ -1,0 +1,9 @@
+function LtoG()
+{
+    
+}
+
+function GtoL()
+{
+
+}
